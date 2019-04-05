@@ -99,7 +99,7 @@ A curated list of proof of storage and decentralized storage resources and links
 * Chia: Proof of Space and Time, VDF-based PoT
 * SpaceMint
 * SpaceMesh
-* Permacoin: ponly paper, no implementation
+* Permacoin: only paper, no implementation
 * <del>BitcoinOre</del>: already dead
 
 ### Burstcoin
