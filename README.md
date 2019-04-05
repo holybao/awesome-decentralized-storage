@@ -99,8 +99,8 @@ A curated list of proof of storage and decentralized storage resources and links
 * Chia: Proof of Space and Time, VDF-based PoT
 * SpaceMint
 * SpaceMesh
-* Permacoin: paper only
-* BitcoinOre: already dead
+* Permacoin: ponly paper, no implementation
+* <del>BitcoinOre</del>: already dead
 
 ### Burstcoin
 
@@ -158,7 +158,7 @@ A curated list of proof of storage and decentralized storage resources and links
 
 * \[1\] A. Miller, A. Juels, E. Shi, B. Parno and J. Katz. [Permacoin: Repurposing Bitcoin Work for Data Preservation](https://www.computer.org/csdl/proceedings/sp/2014/4686/00/4686a475.pdf). 2014 IEEE Symposium on Security and Privacy \(SP\), Berkeley, CA, USA, 2014, pp. 475-490 \(PoRet-06\)
 
-### BitcoinOre
+### <del>BitcoinOre</del>
 
 * \[1\] [Bitcoin Ore \(BCO\) : A brand new PoC mining ecosystem for all](https://holybao.com/ipfs/QmaS7Ss9We7MVLv5g52qKzGfcmtMwSUFqk3NN57s5oYBHY). 2017
 
