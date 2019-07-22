@@ -117,28 +117,19 @@ A curated list of proof of storage and decentralized storage resources and links
 ### Chia
 
 * \[1\] [Chia Official Website](https://www.chia.net/)
-
 * \[2\] [Chia FAQ](https://www.chia.net/faq/)
-
 * \[3\] Bram Cohen, Chia Network. \[Talk\] [Stopping grinding attacks in proofs of space](https://www.youtube.com/watch?v=2Zlcgt8FVz4). Stanford Seminar, 2018
-
 * \[4\] Bram Cohen. \[Talk\] [Beyond Hellman’s Time-Memory Trade-Offs with Applications to Proofs of Space](https://www.youtube.com/watch?v=iqxkO7C-cyk&feature=youtu.be) - Bram Cohen BPASE '18, January 24-26th 2018, Stanford University Stanford Cyber Initiative
-
 * \[5\] Ben Fisch. \[Talk\] [Verifiable Delay Functions: Applications and Candidate Constructions](https://www.youtube.com/watch?v=qUoagL7OZ1k&feature=youtu.be) - Ben Fisch BPASE '18, January 24-26th 2018, Stanford University Stanford Cyber Initiative
-
 * \[6\] Bram Cohen. \[Talk\] [Proofs of Space and Time with Bram Cohen](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/) - with a lightning talk from Mark Nadal, 2018 \[[Slides](//view.publitas.com/chia-network/chia-1/page/1)\]
-
 * \[7\] Bram Cohen. \[Talk\] [Combining Proofs of Space and Proofs of Time](https://www.youtube.com/watch?v=aYG0NxoG7yw) - Bram Cohen \(Bittorrent, Inc\) BPASE '17, January 27th 2017, Stanford University Stanford Cyber Initiative \[[Slides](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf)\]
-
 * \[8\] Bram Cohen. SF Bitcoin Devs Seminar: [Removing the Waste from Cryptocurrencies: Challenges and More Challenges](https://www.youtube.com/watch?v=zZaB4hM8SQ4). 2015 \[[Slides](https://view.publitas.com/chia-network/bitcoin_data_structures/page/1)\] \[[Code](https://github.com/bramcohen/MerkleSet)\]
-
 * \[9\] Krzysztof Pietrzak. [Simple Verifiable Delay Functions](http://drops.dagstuhl.de/opus/volltexte/2018/10153/pdf/LIPIcs-ITCS-2019-60.pdf). 10th Innovations in Theoretical Computer Science Conference \(ITCS 2019\), 60:1-15. Cryptology ePrint Archive, [Report 2018/627](https://eprint.iacr.org/2018/627)
-
 * \[10\] Cohen B., Pietrzak K. \(2018\) [Simple Proofs of Sequential Work](https://eprint.iacr.org/2018/183). In: Nielsen J., Rijmen V. \(eds\) Advances in Cryptology – EUROCRYPT 2018. EUROCRYPT 2018. Lecture Notes in Computer Science, vol 10821. Springer, Cham. Cryptology ePrint Archive, Report 2018/183
-
 * \[11\] Buchmann and Vollmer. [Binary quadratic forms](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf). 2017
-
 * \[12\] Dan Boneh, Benedikt B¨unz, Ben Fisch. [A Survey of Two Verifiable Delay Functions](https://eprint.iacr.org/2018/712.pdf). Cryptology ePrint Archive, Report 2018/712
+* [CP19] [Bram Cohen and Krzysztof Pietrazak. The Chia Network Blockchain](https://www.chia.net/assets/ChiaGreenPaper.pdf). July 9, 2019 (Green Paper) 
+* [Chia Proof of Space Construction](https://www.chia.net/assets/proof_of_space.pdf). 2019
 
 ### SpaceMint
 
