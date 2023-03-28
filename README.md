@@ -159,6 +159,7 @@ A curated list of proof of storage and decentralized storage resources and links
 * Storj
 * IPFS
 * Filecoin
+* Polybase
 * Swarm
 * KopperCoin: only paper, no implementation
 * Retricoin: only paper, no implementation
@@ -244,6 +245,16 @@ A curated list of proof of storage and decentralized storage resources and links
 * \[22\] Github [filecoin-project/replication-game](https://github.com/filecoin-project/replication-game): proof-of-replication optimization competition
 
 * \[23\] Github [filecoin-project/research](https://github.com/filecoin-project/research): open problems, ideas, and discussions
+
+### Polybase
+
+* \[1\] [Polybase Official Website](https://polybase.xyz)
+
+* \[2\] Polybase. [Polybase: A database that understands tokens, wallets & ZK.](https://framerusercontent.com/modules/assets/GRv4t0d6jQOJbIO7ZOFgonnXqM~f7GLGr1YpwfK85uVr8su7Mxe_3b6VkIZW94sRev8jj4.pdf). 2022 \(Whitepaper 3.0\)
+
+* \[3\] Build using Polybase. [A decentralized social network](https://github.com/polybase/social). 2022
+
+* \[4\] Build using Polybase. [NFT Gated chat app](https://github.com/polybase/chat). 2022
 
 ### Swarm
 
